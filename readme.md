@@ -6,23 +6,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/aindrajaya/nft-minting">
+  <a href="https://github.com/aruskoding-belajar/react-webpack-boilerplate">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">NFT Minting (**Still on progress**)</h3>
+  <h3 align="center">React Webpack Boilerplate (**Still on progress**)</h3>
 
   <p align="center">
-    NFT Minting with Blockchain Ethereum Integration for Learning Purpose
+    This project is how to configure the React Apps by using webpack
     <br />
-    <a href="https://github.com/aindrajaya/nft-minting"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aruskoding-belajar/react-webpack-boilerplate"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/aindrajaya/nft-minting">View Demo</a>
+    <a href="https://github.com/aruskoding-belajar/react-webpack-boilerplate">View Demo</a>
     ·
-    <a href="https://github.com/aindrajaya/nft-minting/issues">Report Bug</a>
+    <a href="https://github.com/aruskoding-belajar/react-webpack-boilerplate/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aindrajaya/nft-minting/issues">Request Feature</a>
+    <a href="https://github.com/aruskoding-belajar/react-webpack-boilerplate/issues">Request Feature</a>
   </p>
 </p>
 
@@ -50,24 +50,23 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About the Counter dApps (Decentralized Applications)
+## About the React Webpak Boilerplate
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-So this project is my result of my [Project-based learning](https://www.pblworks.org/what-is-pbl) to explore more deep about Decentralize application that build on [Ethereum](https://ethereum.org/en/) networks, and to know on how the simple example Ethereum blockchain integration on the  website application.
+~~So this project is my result of my [Project-based learning](https://www.pblworks.org/what-is-pbl) to explore more deep about Decentralize application that build on [Ethereum](https://ethereum.org/en/) networks, and to know on how the simple example Ethereum blockchain integration on the  website application.~~
 
-Here's why and my purpose for this Learning Repository:
-* Counter app is most simple case study to learn on how the website application works
-* And I also want to make it more clear on how Integrate each functions on our website developer that can be store on the Ethereum blockchain networks.
+~~Here's why and my purpose for this Learning Repository:~~
+~~ * Counter app is most simple case study to learn on how the website application works~~
+~~ * And I also want to make it more clear on how Integrate each functions on our website developer that can be store on the Ethereum blockchain networks.~~
 
-And not forget to say thanks to [spalladion](https://github.com/spalladino) for the great counter dApps repository. Your repository inspired me to add more complex implementation about this dApp projects.
+~~And not forget to say thanks to [spalladion](https://github.com/spalladino) for the great counter dApps repository. Your repository inspired me to add more complex implementation about this dApp projects.~~
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 This projects is built with
 * [React](https://reactjs.org/)
-* [Redux-saga](https://redux-saga.js.org/)
-* [Ethereum](https://ethereum.org/en/)
+* [Webpack](https://webpack.js.org//)
 
 
 
@@ -89,7 +88,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/aindrajaya/nft-minting.git
+   git clone https://github.com/aruskoding-belajar/react-webpack-boilerplate.git
    ```
 2. Install NPM packages
    ```sh
@@ -117,7 +116,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/aindrajaya/nft-minting/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/aruskoding-belajar/react-webpack-boilerplate/issues) for a list of proposed features (and known issues).
 
 
 
@@ -125,7 +124,7 @@ See the [open issues](https://github.com/aindrajaya/nft-minting/issues) for a li
 ## Contact
 Arista - [@Arista_Indra](https://twitter.com/Arista_Indra) - arista.indrajay@gmail.com
 
-Project Link: [Counter dApp](https://github.com/aindrajaya/nft-minting)
+Project Link: [React Webpack Config](https://github.com/aruskoding-belajar/react-webpack-boilerplate)
 
 
 
@@ -142,10 +141,10 @@ Project Link: [Counter dApp](https://github.com/aindrajaya/nft-minting)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/aindrajaya/nft-minting.svg?style=for-the-badge
-[stars-url]: https://github.com/aindrajaya/nft-minting/stargazers
-[issues-shield]: https://img.shields.io/github/issues/aindrajaya/nft-minting.svg?style=for-the-badge
-[issues-url]: https://github.com/aindrajaya/nft-minting/issues
+[stars-shield]: https://img.shields.io/github/stars/aruskoding-belajar/react-webpack-boilerplate.svg?style=for-the-badge
+[stars-url]: https://github.com/aruskoding-belajar/react-webpack-boilerplate/stargazers
+[issues-shield]: https://img.shields.io/github/issues/aruskoding-belajar/react-webpack-boilerplate.svg?style=for-the-badge
+[issues-url]: https://github.com/aruskoding-belajar/react-webpack-boilerplate/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/aindrajaya
 [product-screenshot]: images/screenshot.png
